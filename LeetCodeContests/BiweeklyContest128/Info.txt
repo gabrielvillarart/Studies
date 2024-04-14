@@ -1,0 +1,19 @@
+https://leetcode.com/discuss/general-discussion/5017023/biweekly-contest-128
+
+Welcome to Biweekly Contest 128! Feel free to share and post your contest experience here!
+
+You can also view the rankings for the contest here.
+
+Links to the individual problems are included below:
+
+Score of a String (3 points)
+https://leetcode.com/problems/score-of-a-string
+
+Minimum Rectangles to Cover Points (4 points)
+https://leetcode.com/problems/minimum-rectangles-to-cover-points
+
+Minimum Time to Visit Disappearing Nodes (5 points)
+https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes
+
+Find the Number of Subarrays Where Boundary Elements Are Maximum (6 points)
+https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum

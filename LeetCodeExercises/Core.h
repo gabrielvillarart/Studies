@@ -11,4 +11,6 @@
 #include <random>
 #include <unordered_set>
 
+#include "../Tools/Random.h"
+
 using namespace std;
