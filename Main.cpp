@@ -1,4 +1,4 @@
-#include "LeetCodeContests/BiweeklyContest128/ScoreOfString.h"
+#include "LeetCodeExercises\ProductOfArrayExceptSelf.h"
 
 int main() {
 	test();

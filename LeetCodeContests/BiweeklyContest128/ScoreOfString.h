@@ -1,3 +1,4 @@
+#pragma once
 #include "../../LeetCodeExercises/Core.h"
 
 class Solution {
